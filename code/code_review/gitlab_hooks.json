@@ -1,0 +1,23 @@
+[
+  {
+    "id": "code_review",
+    "execute-command": "./code_review",
+    "command-working-directory": "/root/ResearchCenter/DepOps",
+    "pass-arguments-to-command": [
+    {
+     "source": "entire-payload"
+    }
+    ],
+    "response-message": "Executing redeploy script",
+      "trigger-rule": {
+        "match": {
+          "type": "value",
+          "value": "Research_Center_20200115",
+          "parameter": {
+            "source": "header",
+            "name": "X-Gitlab-Token"
+          }
+        }
+      }
+  }
+]

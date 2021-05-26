@@ -1,0 +1,62 @@
+webhook: https://oapi.dingtalk.com/robot/send?access_token=896139b32e3c421696161f5cb738dc9a88a02cd36a58c914814f15749a9b7f69
+codereview:
+  -  
+       submitter:  "wangda@orbbec.com"
+       submitter_phone: 18209517117 
+       viewerlist:
+         -
+             name: liangtianhua@orbbec
+             phone: 18676767442
+         - 
+             name: datean@orbbec.com
+             phone: 13632951001
+
+  -  
+       submitter: bierde@orbbec.com
+       submitter_phone: 18296625030 
+       viewerlist:
+         -
+             name: xianglong@orbbec.com
+             phone: 18500979513
+         - 
+             name: huangguoshan@orbbec.com
+             phone: 15218992091
+
+  -  
+       submitter: huangguoshan@orbbec.com
+       submitter_phone: 15218992091 
+       viewerlist:
+         -
+             name: xianglong@orbbec.com
+             phone: 18500979513
+         - 
+             name: datean@orbbec.com
+             phone: 13632951001
+  -  
+        submitter: xianglong@orbbec.com
+        submitter_phone: 18500979513 
+        viewerlist:
+         -
+             name: liangtianhua@orbbec
+             phone: 18676767442
+         - 
+             name: huangguoshan@orbbec.com
+             phone: 15218992091
+  -
+        submitter: datean@orbbec.com
+        submitter_phone: 13632951001 
+        viewerlist:
+         -
+             name: liangtianhua@orbbec
+             phone: 18676767442
+         - 
+             name: huangguoshan@orbbec.com
+             phone: 15218992091
+             
+   
+
+Log:
+    FileName: ./logs/common.log
+    #DEBUG,INFO,WARN,ERROR
+    LogLevel: INFO
+

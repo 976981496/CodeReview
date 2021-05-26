@@ -1,0 +1,44 @@
+{"time":"2020-01-19 17:01:02","level":"info","scanID":"none","msg":"test","filename":"main.go:53"}
+{"time":"2020-01-19 17:44:42","level":"info","scanID":"none","msg":"test","filename":"main.go:53"}
+{"time":"2020-01-19 17:50:15","level":"info","scanID":"none","msg":"test","filename":"main.go:53"}
+{"time":"2020-01-19 17:50:15","level":"info","scanID":"none","msg":"invalid character 'o' looking for beginning of value","filename":"main.go:57"}
+{"time":"2020-01-19 17:50:53","level":"info","scanID":"none","msg":"test","filename":"main.go:53"}
+{"time":"2020-01-19 17:50:53","level":"info","scanID":"none","msg":"invalid character 'o' looking for beginning of value","filename":"main.go:57"}
+{"time":"2020-01-19 17:51:45","level":"info","scanID":"none","msg":"test","filename":"main.go:53"}
+{"time":"2020-01-19 17:51:45","level":"info","scanID":"none","msg":"invalid character 'o' looking for beginning of value","filename":"main.go:57"}
+{"time":"2020-01-19 17:52:34","level":"info","scanID":"none","msg":"test","filename":"main.go:53"}
+{"time":"2020-01-19 17:52:34","level":"info","scanID":"none","msg":"invalid character 'o' looking for beginning of value","filename":"main.go:57"}
+{"time":"2020-01-19 17:53:58","level":"info","scanID":"none","msg":"test","filename":"main.go:53"}
+{"time":"2020-01-19 17:53:58","level":"info","scanID":"none","msg":"invalid character 'o' looking for beginning of value","filename":"main.go:57"}
+{"time":"2020-01-19 17:54:32","level":"info","scanID":"none","msg":"test","filename":"main.go:53"}
+{"time":"2020-01-19 17:54:32","level":"info","scanID":"none","msg":"invalid character 'o' looking for beginning of value","filename":"main.go:57"}
+{"time":"2020-01-19 17:55:24","level":"info","scanID":"none","msg":"test","filename":"main.go:53"}
+{"time":"2020-01-19 17:55:24","level":"info","scanID":"none","msg":"invalid character 'o' looking for beginning of value","filename":"main.go:57"}
+{"time":"2020-01-19 17:56:49","level":"info","scanID":"none","msg":"test","filename":"main.go:53"}
+{"time":"2020-01-19 17:56:49","level":"info","scanID":"none","msg":"invalid character 'o' looking for beginning of value","filename":"main.go:57"}
+{"time":"2020-01-19 17:57:20","level":"info","scanID":"none","msg":"test","filename":"main.go:53"}
+{"time":"2020-01-19 17:57:20","level":"info","scanID":"none","msg":"invalid character 'o' looking for beginning of value","filename":"main.go:57"}
+{"time":"2020-01-19 17:59:13","level":"info","scanID":"none","msg":"test","filename":"main.go:53"}
+{"time":"2020-01-19 17:59:13","level":"info","scanID":"none","msg":"invalid character 'o' looking for beginning of value","filename":"main.go:57"}
+{"time":"2020-01-19 18:00:01","level":"info","scanID":"none","msg":"test","filename":"main.go:53"}
+{"time":"2020-01-19 18:00:01","level":"info","scanID":"none","msg":"invalid character 'o' looking for beginning of value","filename":"main.go:57"}
+{"time":"2020-01-19 18:04:52","level":"info","scanID":"none","msg":"test","filename":"main.go:53"}
+{"time":"2020-01-19 18:04:52","level":"info","scanID":"none","msg":"invalid character 'o' looking for beginning of object key string","filename":"main.go:57"}
+{"time":"2020-01-19 18:06:59","level":"info","scanID":"none","msg":"test","filename":"main.go:53"}
+{"time":"2020-01-19 18:06:59","level":"info","scanID":"none","msg":"invalid character 'o' looking for beginning of object key string","filename":"main.go:57"}
+{"time":"2020-01-19 18:08:49","level":"info","scanID":"none","msg":"test","filename":"main.go:53"}
+{"time":"2020-01-19 18:08:49","level":"info","scanID":"none","msg":"invalid character 'o' looking for beginning of object key string","filename":"main.go:57"}
+{"time":"2020-01-19 18:41:07","level":"info","scanID":"none","msg":"test","filename":"main.go:53"}
+{"time":"2020-01-19 18:41:07","level":"info","scanID":"none","msg":"os.Args[1]:sdgfs","filename":"main.go:55"}
+{"time":"2020-01-19 18:41:07","level":"error","scanID":"none","msg":"invalid character 's' looking for beginning of value","filename":"main.go:58"}
+{"time":"2020-01-19 18:43:00","level":"info","scanID":"none","msg":"test","filename":"main.go:53"}
+{"time":"2020-01-19 18:43:00","level":"info","scanID":"none","msg":"os.Args[1]:sdgfs","filename":"main.go:55"}
+{"time":"2020-01-19 18:43:00","level":"error","scanID":"none","msg":"invalid character 's' looking for beginning of value","filename":"main.go:58"}
+{"time":"2020-01-19 18:43:06","level":"info","scanID":"none","msg":"test","filename":"main.go:53"}
+{"time":"2020-01-19 18:43:24","level":"info","scanID":"none","msg":"test","filename":"main.go:53"}
+{"time":"2020-01-19 18:43:24","level":"error","scanID":"none","msg":"invalid character 'o' after top-level value","filename":"main.go:58"}
+{"time":"2020-01-19 18:44:52","level":"info","scanID":"none","msg":"test","filename":"main.go:53"}
+{"time":"2020-01-19 18:53:12","level":"info","scanID":"none","msg":"test","filename":"main.go:53"}
+{"time":"2020-01-19 18:53:18","level":"info","scanID":"none","msg":"test","filename":"main.go:53"}
+{"time":"2020-01-19 18:58:37","level":"info","scanID":"none","msg":"test","filename":"main.go:53"}
+{"time":"2020-01-19 18:59:13","level":"info","scanID":"none","msg":"test","filename":"main.go:53"}

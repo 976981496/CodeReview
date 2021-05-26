@@ -1,0 +1,5 @@
+
+Log:
+    FileName: ./logs/code_review.log
+    LogLevel: INFO
+
